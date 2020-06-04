@@ -1,7 +1,8 @@
 {
   "name": "ionic-conference-app",
-  "type": "angular",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "type": "angular",
+  "id": "7f3c168d"
 }
